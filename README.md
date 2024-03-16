@@ -1,5 +1,10 @@
 ## Olá sou a Athena, gosto muito de programação e tecnologia!
 
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littleathena&title_color=f9829b&text_color=fff&icon_color=fff&bg_color=181818" />
+</div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
