@@ -22,6 +22,7 @@
 <br>
 
 > 💻 Desenvolvedora de bots e APIs.
-> 
 > ☕ Amante de programação e tecnologia.
+> 🎵 Música nunca falta enquanto estou codando.
+
 </br>
