@@ -1,4 +1,4 @@
-## Olá sou a Athena, gosto muito de programação e tecnologia!
+## 👋 Olá sou a Athena, gosto muito de programação e estou aprendendo um passo a cada dia e evoluindo meus projetos!
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littleathena&title_color=f9829b&text_color=fff&icon_color=fff&bg_color=181818" />
@@ -21,10 +21,10 @@
 
 <br>
 
-> 💻 Desenvolvedora de bots e APIs.
+> 🤖 Desenvolvedora de bots e API's.
 > 
-> ☕ Amante de programação e tecnologia.
+> 💞 Amante de programação e tecnologia.
 > 
-> 🎵 Música nunca falta enquanto estou codando.
+> 🎶 Música nunca falta enquanto estou programando preferencia rock metal.
 
 </br>
