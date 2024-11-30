@@ -1,9 +1,9 @@
-## 👋 Olá sou a Athena!
+## 👋 Olá!
 Eu gosto muito de programação e estou aprendendo um passo a cada dia e evoluindo meus projetos!
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=littleathena&title_color=f9829b&text_color=fff&icon_color=fff&bg_color=181818" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=littleathena&show_icons=true&title_color=f9829b&text_color=fff&icon_color=f9829b&bg_color=181818" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lilikasyn&title_color=f9829b&text_color=fff&icon_color=fff&bg_color=181818" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lilikasyn&show_icons=true&title_color=f9829b&text_color=fff&icon_color=f9829b&bg_color=181818" />
 </div>
 
 
